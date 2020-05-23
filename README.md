@@ -1,4 +1,4 @@
-# Video-Memorability-Predection-using-Machine-Learning
+# Video-Memorability-Predection
 Predict short-term and long-term memorability scores using either the video features like C3D, HMP or semantic feature like the captions (text explaining the video content).
 
 # Dataset
